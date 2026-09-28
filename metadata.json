@@ -1,0 +1,6 @@
+{
+  "name": "Voxify - Text to Speech & MP3 Studio",
+  "description": "Convert text into lifelike speech with multiple natural voices, export high-quality MP3 audio, and manage files in local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
